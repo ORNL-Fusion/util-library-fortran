@@ -1,0 +1,21 @@
+*#
+*.#*
+*.x
+
+#Emacs old files
+*~
+
+#modules etc
+*.o
+*.mod
+*.a
+
+#test output files
+fortran/bfield_library_jdl/tests/*.out
+
+# matlab
+*.asv
+
+# python
+python/.ipynb_checkpoints
+python/__pycache__
