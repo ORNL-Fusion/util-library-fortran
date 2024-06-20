@@ -1,2 +1,2 @@
-# util-library
-Routines for bfield calculation, profile fitting, etc.
+# util-library-fortran
+Fortran routines for bfield calculation
